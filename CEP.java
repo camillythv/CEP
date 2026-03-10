@@ -9,5 +9,9 @@ public class CEP {
     public static void mostrarMensagem() {
         System.out.println("Programa executado com sucesso!");
     }
+    
+    public static int soma(int a, int b){
+        return a + b;
+    }
 }
 
